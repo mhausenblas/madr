@@ -8,6 +8,7 @@ Implementing a prototype of a generic mobile AR browser that utilises LOD. See a
 * [jQuery plug-in for mobile web development](http://www.jqtouch.com/) on the iPhone, Android, iPod Touch, etc.
 * [JavaScript port of FLARToolKit ](https://github.com/kig/JSARToolKit)
 * [JavaScript library for Augmented Reality](http://code.google.com/p/js-aruco/) applications
+* [jQuery webcam plugin](http://www.xarg.org/project/jquery-webcam-plugin/)
 
 ## License
 
