@@ -21,10 +21,12 @@ It might be useful to build on or re-use the following:
 * [JavaScript RDF store](https://github.com/antoniogarrote/rdfstore-js/) allows for client side, native processing of the (LOD) data sources
 * [JavaScript port of FLARToolKit ](https://github.com/kig/JSARToolKit) - TODO: Michael needs to check for what we can use this ...
 * [JavaScript library for Augmented Reality](http://code.google.com/p/js-aruco/) applications can also offer some AR-specific functionality
-* jQuery
+* Mobile apps/location-centric
  * [jQuery plug-in for mobile web development](http://www.jqtouch.com/) on the iPhone, Android, iPod Touch, etc. might offer some high-level, cross-platform functionality
- * [jQuery webcam plugin](http://www.xarg.org/project/jquery-webcam-plugin/) provides a Flash-based way to capture live images (is there a non-Flash version as well?)
  * [jQuery GPS plug-in](http://www.birdwingfx.com/jQuery_gps/) provides geo-location functions
+* Webcam
+ * [JavaScript API for Webcam image access using Canvas](https://github.com/taboca/CamCanvas-API-) 
+ * [jQuery webcam plugin](http://www.xarg.org/project/jquery-webcam-plugin/) provides a Flash-based way to capture live images (is there a non-Flash version as well?)
 
 
 ## License
