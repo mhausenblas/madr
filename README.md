@@ -29,6 +29,16 @@ It might be useful to build on or re-use the following:
  * [jQuery webcam plugin](http://www.xarg.org/project/jquery-webcam-plugin/) provides a Flash-based way to capture live images (is there a non-Flash version as well?)
 
 
+## Design
+
+### Mockups
+
+Some mockups created with [Balsamiq](http://balsamiq.com/products/mockups):
+
+
+![Mockup 0](https://github.com/mhausenblas/madr/raw/master/design/madr-mockup-0.png)
+
+
 ## License
 
 This software is Public Domain.
