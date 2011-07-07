@@ -31,6 +31,13 @@ It might be useful to build on or re-use the following:
 
 ## Design
 
+### Issues
+
+* How to determine relevant PoI?
+* Two main interaction modes: 
+ * information: view PoI properties, learn about PoI, etc. - this can be directly done with LOD
+ * action: interact with PoI (for example, order pizza, query current offers, etc.) - here we might want to utilise aLODin/EA (?)
+
 ### Mockups
 
 Some mockups created with [Balsamiq](http://balsamiq.com/products/mockups):
