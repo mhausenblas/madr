@@ -33,7 +33,11 @@ It might be useful to build on or re-use the following:
 
 ### Issues
 
-* How to determine relevant PoI?
+* What contextual data can be used to help guide the selection of relevant PoIs?
+ * position (GPS)
+ * time
+ * user calendar
+ * user preferences (explicit or previous interactions)
 * Two main interaction modes: 
  * information: view PoI properties, learn about PoI, etc. - this can be directly done with LOD
  * action: interact with PoI (for example, order pizza, query current offers, etc.) - here we might want to utilise aLODin/EA (?)
