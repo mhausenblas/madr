@@ -42,6 +42,12 @@ It might be useful to build on or re-use the following:
  * information: view PoI properties, learn about PoI, etc. - this can be directly done with LOD
  * action: interact with PoI (for example, order pizza, query current offers, etc.) - here we might want to utilise aLODin/EA (?)
 
+### Initial datasets
+
+* DBpedia live
+* OSM (or LGD)
+* wrapper for some Irish datasets (fingal, etc.)
+
 ### Mockups
 
 Some mockups created with [Balsamiq](http://balsamiq.com/products/mockups):
