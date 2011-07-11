@@ -13,6 +13,7 @@ The name itself, *madr*, comes from Mobile AugmenteD Reality ... well, OK, it's 
 Ideas for generic, mobile AR browsing:
 
 * Use [aLODin](http://lab.linkeddata.deri.ie/alodin/agent/) for interaction with the entities; see also the [Entity-Action  ](http://purl.org/NET/entity-actions) vocabulary
+* Integrate with social media streams (Twitter, Google+, etc.) based on location
 
 ### Software components 
 
@@ -41,6 +42,12 @@ It might be useful to build on or re-use the following:
 * Two main interaction modes: 
  * information: view PoI properties, learn about PoI, etc. - this can be directly done with LOD
  * action: interact with PoI (for example, order pizza, query current offers, etc.) - here we might want to utilise aLODin/EA (?)
+* Client-side:
+ * RDF store that i) directly accesses a dataset where possible, that is, [CORS-enabled](http://enable-cors.org/) or ii) via server-side API/gateway
+ * AR component (webcam)
+ * interaction layer
+* Server-side:
+ * Simple curl-based wrapper for providing a gateway to datasets
 
 ### Initial datasets
 
