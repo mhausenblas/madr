@@ -45,7 +45,7 @@ It might be useful to build on or re-use the following:
 * Client-side:
  * RDF store that i) directly accesses a dataset where possible, that is, [CORS-enabled](http://enable-cors.org/) or ii) via server-side API/gateway
  * AR component (webcam)
- * interaction layer
+ * interaction layer (selection of PoI and action on PoI)
 * Server-side:
  * Simple curl-based wrapper for providing a gateway to datasets
 
@@ -59,9 +59,7 @@ It might be useful to build on or re-use the following:
 
 Some mockups created with [Balsamiq](http://balsamiq.com/products/mockups):
 
-
 ![Mockup 0](https://github.com/mhausenblas/madr/raw/master/design/madr-mockup-0.png)
-
 
 ## License
 
