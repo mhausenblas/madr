@@ -32,6 +32,13 @@ It might be useful to build on or re-use the following:
 
 ## Design
 
+### Data flow
+
+1. `get_current_location()` -> lookup location in LGD/OSM and return PoIs
+2. Display PoIs
+3. Select or interact with a PoI
+
+
 ### Issues
 
 * What contextual data can be used to help guide the selection of relevant PoIs?
@@ -51,8 +58,8 @@ It might be useful to build on or re-use the following:
 
 ### Initial datasets
 
+* [LGD](http://linkedgeodata.org/) and with it the [OSM](http://www.openstreetmap.org/ "OpenStreetMap")
 * DBpedia live
-* OSM (or LGD)
 * wrapper for some Irish datasets (fingal, etc.)
 
 ### Mockups
