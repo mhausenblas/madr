@@ -28,6 +28,7 @@ It might be useful to build on or re-use the following:
 * Webcam
  * [JavaScript API for Webcam image access using Canvas](https://github.com/taboca/CamCanvas-API-) 
  * [jQuery webcam plugin](http://www.xarg.org/project/jquery-webcam-plugin/) provides a Flash-based way to capture live images (is there a non-Flash version as well?)
+* [PhoneGap](http://www.phonegap.com/), an HTML5 app platform that allows you to author native applications with web technologies and get access to APIs and app stores
 
 
 ## Design
