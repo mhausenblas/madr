@@ -6,6 +6,12 @@
 	height: 600px;
 }
 
+#scribble-board {
+	display: none;
+	width: 10px;
+	height: 10px;	
+}
+
 #flash {
 	position:absolute;
 	top:0px;
