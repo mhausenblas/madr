@@ -1,7 +1,9 @@
-#webcam {
+#aar {
 	position:absolute;
 	top: 0;
 	left: 0;
+	width: 600px;
+	height: 600px;
 }
 
 #flash {

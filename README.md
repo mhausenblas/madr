@@ -25,6 +25,7 @@ It might be useful to build on or re-use the following:
 * Mobile apps/location-centric
  * [jQuery plug-in for mobile web development](http://www.jqtouch.com/) on the iPhone, Android, iPod Touch, etc. might offer some high-level, cross-platform functionality
  * [jQuery GPS plug-in](http://www.birdwingfx.com/jQuery_gps/) provides geo-location functions
+ * [Location based mobile websites](http://code.google.com/p/geo-location-javascript/)
 * Webcam
  * [JavaScript API for Webcam image access using Canvas](https://github.com/taboca/CamCanvas-API-) 
  * [jQuery webcam plugin](http://www.xarg.org/project/jquery-webcam-plugin/) provides a Flash-based way to capture live images (is there a non-Flash version as well?)
