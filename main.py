@@ -11,8 +11,6 @@ import logging
 import cgi
 import platform
 
-os.environ['DJANGO_SETTINGS_MODULE'] = 'settings'
-
 from google.appengine.dist import use_library
 use_library('django', '0.96')
 
@@ -23,7 +21,8 @@ from handler import *
 
 application = webapp.WSGIApplication([
 						(r'/', MainHandler),
-						(r'/deref', DerefHandler)
+						(r'/deref', DerefHandler),
+						(r'/.*', NotFoundHandler)
 					],
 					debug=False)
 
