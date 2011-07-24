@@ -1,9 +1,49 @@
+body{
+	font-family: 'Tienne', 'Palatino', 'Times New Roman', serif;
+}
+
+h2 {
+	font-size: 14pt;
+	color: #f0f0f0;
+	background: #000;
+	width: 100%;
+	padding: 10px 0 10px 20px;
+}
+
 #aar {
 	position:absolute;
 	top: 0;
 	left: 0;
 	width: 600px;
 	height: 600px;
+}
+
+#dashboard {
+	z-index: 3000;
+	position:absolute;
+	bottom: 0;
+	left: 0;
+	display: none;
+	width: 400px;
+	height: 200px;
+}
+
+#poi-list {
+	list-style-image:url('/img/poi.png');
+	list-style-position: outside;
+	margin: 10px 0 10px 20px;
+}
+
+.poi-interaction {
+	cursor: pointer;
+	color: #ff0;
+	font-size: 80%;
+	margin: 0 0 0 20px;
+}
+
+a.poi {
+	color: #f0f0f0;
+	background: #000;
 }
 
 #scribble-board {
@@ -22,6 +62,8 @@
 	background-color:#c00;
 	display:none;
 }
+
+
 
 object {
 	display:block; /* HTML5 fix */
