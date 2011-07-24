@@ -26,6 +26,16 @@ h2 {
 	display: none;
 	width: 400px;
 	height: 200px;
+	color: #ff0;
+	padding: 10px;
+}
+#nearby-ctrl {
+	margin: 10px 0 10px 0;
+}
+
+#nearby-radius {
+	z-index: 5000;
+	width: 300px;
 }
 
 #poi-list {
@@ -36,7 +46,6 @@ h2 {
 
 .poi-interaction {
 	cursor: pointer;
-	color: #ff0;
 	font-size: 80%;
 	margin: 0 0 0 20px;
 }
