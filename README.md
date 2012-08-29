@@ -15,9 +15,17 @@ madr is all about HTML5 and JavaScript - all the heavy lifting is done on the cl
  * We will use [aLODin](http://lab.linkeddata.deri.ie/alodin/agent/) for interaction with the PoI; see also the [Entity-Action  ](http://purl.org/NET/entity-actions) vocabulary.
  * We plan to integrate with social media streams (Twitter, Google+, etc.) based on the user's location.
 
-And this is how madr currently looks like on the Desktop (on a mobile it is arguably more fun):
+And this is how madr currently looks on my Samsung Galaxy SII:
+
+![madr mobile screen shot](http://dl.dropbox.com/u/10436738/img/madr-samsung-s2-screenshot.png)
+
+... or an older sreen shot from the desktop browser:
 
 ![madr desktop screen shot](https://lh6.googleusercontent.com/--tItkkkZVts/TiwAHvhntCI/AAAAAAAAAXo/Om2msSpZrlI/s912/madr-screenshot-0.png)
+
+
+
+
 
 ## License
 
