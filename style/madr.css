@@ -8,6 +8,11 @@ h2 {
 	background: #000;
 	width: 100%;
 	padding: 10px 0 10px 20px;
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	-moz-opacity:0.5;
+	-khtml-opacity: 0.5;
+	opacity: 0.5;
 }
 
 #aar {
@@ -31,12 +36,13 @@ h2 {
 }
 
 #nearby-ctrl {
-	margin: 10px 0 10px 0;
+	margin: 10px 0 1em 0;
 }
 
 #nearby-radius {
 	z-index: 5000;
 	width: 300px;
+	margin: 10px 0 1em 0;
 }
 
 #poi-info {
@@ -46,18 +52,36 @@ h2 {
 #poi-list {
 	list-style-image:url('/img/poi.png');
 	list-style-position: outside;
-	margin: 10px 0 10px 20px;
+	margin: 1em 0 10px 20px;
+}
+
+#poi-list li {
+	background: #f0f0f0;
+	padding: 10px;
+	width: 40%;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
 }
 
 .poi-interaction {
 	cursor: pointer;
 	font-size: 80%;
 	margin: 0 0 0 20px;
+	padding: 2px 5px;
+	background: #000;
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	-moz-opacity:0.5;
+	-khtml-opacity: 0.5;
+	opacity: 0.5;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
 }
 
 a.poi {
-	color: #f0f0f0;
-	background: #000;
+	color: #000;
 }
 
 #scribble-board {
