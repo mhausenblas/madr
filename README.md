@@ -29,4 +29,4 @@ And this is how madr currently looks on my Samsung Galaxy SII:
 
 ## License
 
-This software is Public Domain.
+This software is licensed under [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0.html) Software License.
