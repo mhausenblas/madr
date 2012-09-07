@@ -19,13 +19,9 @@ And this is how madr currently looks on my Samsung Galaxy SII:
 
 ![madr mobile screen shot](http://dl.dropbox.com/u/10436738/img/madr-samsung-s2-screenshot.png)
 
-... or an older sreen shot from the desktop browser:
+... or an older screenshot from the desktop browser:
 
 ![madr desktop screen shot](https://lh6.googleusercontent.com/--tItkkkZVts/TiwAHvhntCI/AAAAAAAAAXo/Om2msSpZrlI/s912/madr-screenshot-0.png)
-
-
-
-
 
 ## License
 
